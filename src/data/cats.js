@@ -7,7 +7,8 @@ export default [
     color: 'black/white',
     weight: 18,
     locattion: 'fourside',
-    notes: 'Clean, Happy'
+    notes: 'Clean, Happy',
+    species: 'cat'
   },
   {
     name: 'Missy',
@@ -17,6 +18,7 @@ export default [
     color: 'black/grey',
     weight: 18,
     location: 'spain',
-    notes: 'Pure breed. A bit frisky'
+    notes: 'Pure breed. A bit frisky',
+    species: 'cat'
   }
 ]

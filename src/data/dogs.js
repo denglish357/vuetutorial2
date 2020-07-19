@@ -7,7 +7,8 @@ export default [
     color: 'black/white',
     weight: 34,
     locattion: 'fourside',
-    notes: 'Pure breed. Trained for competitions'
+    notes: 'Pure breed. Trained for competitions',
+    species: 'dog'
   },
   {
     name: 'Giro',
@@ -17,6 +18,7 @@ export default [
     color: 'black/white',
     weight: 18,
     locattion: 'spain',
-    notes: 'Pure breed. Trained for guarding'
+    notes: 'Pure breed. Trained for guarding',
+    species: 'dog'
   }
 ]
